@@ -207,17 +207,6 @@ It follows a **full database lifecycle**:
     
 6. **Testing & Analytics** — Predefined queries and views
     
-
-* * *
-
-🏆 Authors
-----------
-
-* [@francescopiocirillo](https://github.com/francescopiocirillo) – Schema design, triggers, queries
-    
-* [@alefaso-lucky](https://github.com/alefaso-lucky) – Schema design, data population, business rule enforcement
-    
-
 * * *
 
 💡 Potential Applications
@@ -230,6 +219,15 @@ It follows a **full database lifecycle**:
 * **Inventory tracking & logistics**
     
 * **Last-mile delivery optimization**
+
+* * *
+
+🏆 Authors
+----------
+
+* [@francescopiocirillo](https://github.com/francescopiocirillo) – Schema design, triggers, queries
+    
+* [@alefaso-lucky](https://github.com/alefaso-lucky) – Schema design, data population, business rule enforcement
 
 * * *
 
