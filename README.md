@@ -1,6 +1,5 @@
 🐟 fish2home-postgresql-database
 ================================
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=francescopiocirillo&repo=fish2home-postgresql-database)](https://github.com/francescopiocirillo/fish2home-postgresql-database)
 
 **Relational Database in PostgreSQL for Seafood Delivery Management**  
 A complete academic-to-production-grade project covering conceptual design, normalization, constraints, triggers, advanced queries, and data population for a real-world delivery scenario.
