@@ -89,6 +89,7 @@ Despite this, the **codebase follows international best practices** which makes 
 │   └── 02_logic_design.pdf
 │
 ├── 📁 docs/                             # Full technical documentation
+│   ├── full_report_ENGLISH.pdf
 │   └── full_report_ITALIAN.pdf
 │
 ├── 📁 scripts/                          # SQL scripts for full database lifecycle
